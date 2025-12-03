@@ -15,5 +15,12 @@
       <guid>https://junminjang.github.io/posts/test-tex/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is a test post to verify TeX support.&lt;/p&gt;&#xA;&lt;p&gt;Here is an inline equation: $E = mc^2$.&lt;/p&gt;&#xA;&lt;p&gt;Here is a block equation:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}&#xA;$$&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>테스트 포스트</title>
+      <link>https://junminjang.github.io/posts/test-posts/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://junminjang.github.io/posts/test-posts/</guid>
+      <description>&lt;p&gt;testtest&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\sum_{i=1}^{10}(i)&#xA;$$&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
