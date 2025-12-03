@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/junmin/.gemini/antigravity/scratch/junminjang.github.io",
+	"sourceRoot": "/home/junmin/junminjang.github.io",
 	"sources": [
 		"themes/nostyleplease/assets/css/main.scss"
 	],
